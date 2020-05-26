@@ -8,7 +8,6 @@ from keras.preprocessing import image
 from keras.preprocessing.image import ImageDataGenerator
 import numpy as np
 
-m = load_model('Malarial-Cell-Prediction-Model.h5')
 
 model = Sequential()
 
